@@ -1,0 +1,6 @@
+{
+  "name": "ChainVote — Secure E-Voting System",
+  "description": "An Election Commission-inspired secure online e-voting system featuring biometric authentication, single-use voter codes, role-based admin controls, and a cryptographically verifiable hash-chained audit ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
